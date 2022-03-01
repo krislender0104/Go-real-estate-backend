@@ -1,0 +1,1105 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media only screen and (max-device-width : 2560px) {
+.container{ width:80%;}
+}
+
+@media only screen and (min-device-width : 2360px) {
+.container{ width:80%;}
+
+}
+
+@media only screen and (min-width: 1920px) {
+.container{ width:1500px;}
+
+}
+
+@media only screen and (min-width: 1600px) {
+.container{ width:1450px;}
+
+}
+
+@media only screen and (min-width : 1380px) {
+.container{ width:80%;}
+
+}
+
+@media only screen and (max-width: 1366px) {
+.container{ width:1200px;}
+}
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+/*;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;*/
+
+
+@media only screen and (max-width: 480px) {
+.container{ width:100%;}
+}
+
+
+@media only screen and (min-width:1px) and (max-width:420px) {
+	.top_lft {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.top_rgt {
+    float: left;
+    width: 100%;
+}
+
+.top ul {
+    float: left;
+    text-align: left;
+    margin-top: 8px;
+}
+
+.top ul li a {
+    font-size: 13px;
+}
+
+.login_btn {
+    float: right;
+    font-size: 15px;
+    padding: 4px 17px;
+}
+
+.bnr_content.animate.fadeInLeftBig.two {
+    width: 100%;
+    text-align: center;
+}
+
+.bnr h1 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 21%;
+}
+
+.bnr p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.get_btn {
+    float: none;
+    margin: 0 auto;
+}
+
+.bnr {background-position: left center;}
+
+.title_width {
+    width: 100%;
+    font-size: 41px;
+}
+
+a.cal {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.frm_box {
+    padding: 10% 2%;
+}
+
+.frm_box label {
+    float: left;
+    width: 100%;
+}
+
+.kij1 {
+    width: 100%;
+}
+
+.inpt1 {
+    width: 100%;
+    margin-left: 0;
+}
+
+.rmv_crcl i {
+    float: left;
+    width: 100%;
+    background: #06577d;
+    color: #ffffff;
+    padding: 4%;
+}
+
+.edst h3 {
+    font-size: 41px;
+}
+
+.hpne {
+    width: 100%;
+}
+
+.hpne h2 {
+    font-size: 24px;
+}
+
+.sec2_frm {
+    width: 100%;
+    margin-top: 23px;
+}
+
+.sec2_frm_a {
+    width: 56%;
+}
+
+.sec2_frm_b {
+    width: 44%;
+}
+
+.inpt5 {
+    font-size: 16px;
+}
+
+.sbmt {
+    font-size: 14px;
+}
+
+.sec4_inr {
+    width: 100%;
+}
+
+.sec4 h2 {
+    font-size: 29px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+}
+
+.sec4 {background: none;padding-bottom: 30px;}
+
+.sec4 h4 {
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.get_btn2 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+margin-top"FONT-WEIGHT: 100;
+}
+
+.sec4 h3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.sec5_a {
+    width: 100%;
+    border-right: none;
+}
+
+.sec5_inr {
+    margin-bottom: 20px;
+}
+
+.ftr ul li {
+    float: left;
+    width: 100%;
+    text-align: left;
+    line-height: 25px;
+}
+
+.media_row_a {
+    width: 100%;
+    text-align: left;
+}
+
+.mdia {
+    float: left;
+    padding-left: 14px;
+    padding-top: 10px;
+}
+
+.mdia a i {
+    font-size: 20px;
+}
+.gfr {
+    width: 100%;
+}
+
+.price_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.edst2 {
+    float: left;
+    width: 100%;
+}
+
+.edst2 h3 {
+    font-size: 30px;
+}
+
+.xs5 {
+    width: 86%;
+}
+
+section.sec9 {
+    margin-bottom: 0;
+}
+
+.edsi img {
+    width: 100%;
+}
+
+.pricingTable {
+     min-height: auto; 
+}
+
+.vg1 {min-height:auto;}
+.vg {min-height: auto;}
+.feat_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+.feat_warp h1 {
+    font-size: 28pt;
+}
+
+.te_x6 p {
+    padding: 0;
+}
+
+.service_crou .item {
+    padding: 5%;
+    text-align: center;
+}
+
+.service_crou .item .fa {
+    text-align: center;
+    width: 100%;
+}
+
+.service_crou .item h2 {
+    width: 100%;
+    text-align: center;
+}
+
+#slideshow {
+    height: 231px;}
+}
+
+
+@media only screen and (min-width:421px) and (max-width:690px) {
+	.container {
+    width: 100%;
+}
+	.top_lft {
+    width: 38%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.top_rgt {
+    float: right;
+    width: 54%;
+}
+
+.top ul {
+    float: left;
+    text-align: left;
+    margin-top: 8px;
+}
+
+.top ul li a {
+    font-size: 16px;
+}
+
+.login_btn {
+    float: right;
+    font-size: 15px;
+    padding: 4px 23px;
+}
+
+.bnr_content.animate.fadeInLeftBig.two {
+    width: 70%;
+    text-align: center;
+    margin: 102px auto;
+    float: none;
+}
+
+.bnr h1 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 11%;
+}
+
+.bnr p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.get_btn {
+    float: none;
+    margin: 0 auto;
+}
+
+.bnr {background-position: left center;}
+
+.title_width {
+    width: 100%;
+    font-size: 41px;
+}
+
+section.sec1 {
+}
+
+a.cal {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.frm_box {
+    padding: 10% 2%;
+}
+
+.frm_box label {
+    float: left;
+    width: 100%;
+}
+
+.kij1 {
+    width: 100%;
+}
+
+.inpt1 {
+    width: 100%;
+    margin-left: 0;
+}
+
+.rmv_crcl i {
+    float: left;
+    width: 100%;
+    background: #06577d;
+    color: #ffffff;
+    padding: 4%;
+}
+
+.edst h3 {
+    font-size: 41px;
+}
+
+.hpne {
+    width: 100%;
+}
+
+.hpne h2 {
+    font-size: 24px;
+}
+
+.sec2_frm {
+    width: 100%;
+    margin-top: 23px;
+}
+
+.sec2_frm_a {
+    width: 70%;
+}
+
+.sec2_frm_b {
+    width: 30%;
+}
+
+.inpt5 {
+    font-size: 16px;
+}
+
+.sbmt {
+    font-size: 14px;
+}
+
+.sec4_inr {
+    width: 100%;
+    text-align: center;
+    float: none;
+}
+
+.sec4 h2 {
+    font-size: 29px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    width: 100%;
+}
+
+.sec4 {background: none;padding-bottom: 30px;}
+
+.sec4 h4 {
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.get_btn2 {
+    float: none;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.sec4 h3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.sec5_a {
+    width: 33%;
+    border-right: none;
+}
+
+.sec5_inr {
+    margin-bottom: 20px;
+}
+
+.ftr ul li {
+    float: left;
+    width: auto;
+    text-align: left;
+    line-height: 25px;
+}
+
+.media_row_a {
+    width: 100%;
+    text-align: left;
+}
+
+.mdia {
+    float: left;
+    padding-left: 14px;
+    padding-top: 10px;
+}
+
+.mdia a i {
+    font-size: 20px;
+}
+.gfr {
+    width: 100%;
+}
+.rgt_aline {
+    float: none;
+    margin: 0;
+}
+
+.price_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.edst2 {
+    float: left;
+    width: 100%;
+}
+
+.edst2 h3 {
+    font-size: 30px;
+}
+
+.xs5 {
+    width: 86%;
+}
+
+section.sec9 {
+    margin-bottom: 0;
+}
+.edsi img {
+    width: 100%;
+}
+.pricingTable {
+     min-height: auto; 
+}
+.feat_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+.feat_warp h1 {
+    font-size: 28pt;
+}
+
+.te_x6 p {
+    padding: 0;
+}
+
+.service_crou .item {
+    padding: 5%;
+    text-align: center;
+}
+
+.service_crou .item .fa {
+    text-align: center;
+    width: 100%;
+}
+
+.service_crou .item h2 {
+    width: 100%;
+    text-align: center;
+}
+}
+
+@media only screen and (min-width:691px) and (max-width:768px) {
+	.container {
+    width: 100%;
+}
+	.top_lft {
+    width: 38%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.top_rgt {
+    float: right;
+    width: 54%;
+}
+
+.top ul {
+    float: left;
+    text-align: left;
+    margin-top: 8px;
+}
+
+.top ul li a {
+    font-size: 16px;
+}
+
+.login_btn {
+    float: right;
+    font-size: 15px;
+    padding: 4px 23px;
+}
+
+.bnr_content.animate.fadeInLeftBig.two {
+    width: 70%;
+    text-align: center;
+    margin: 102px auto;
+    float: none;
+}
+
+
+.bnr h1 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 11%;
+}
+
+.bnr p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.get_btn {
+    float: none;
+    margin: 0 auto;
+}
+
+.bnr {background-position: left center;}
+
+.title_width {
+    width: 100%;
+    font-size: 41px;
+}
+
+section.sec1 {
+}
+
+a.cal {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.frm_box {
+    padding: 10% 2%;
+}
+
+.frm_box label {
+    float: left;
+    width: 100%;
+}
+
+.kij1 {
+    width: 100%;
+}
+
+.inpt1 {
+    width: 100%;
+    margin-left: 0;
+}
+
+.rmv_crcl i {
+    float: left;
+    width: 100%;
+    background: #06577d;
+    color: #ffffff;
+    padding: 4%;
+}
+
+.edst h3 {
+    font-size: 41px;
+}
+
+.hpne {
+    width: 100%;
+}
+
+.hpne h2 {
+    font-size: 24px;
+}
+
+.sec2_frm {
+    width: 100%;
+    margin-top: 23px;
+}
+
+.sec2_frm_a {
+    width: 70%;
+}
+
+.sec2_frm_b {
+    width: 30%;
+}
+
+.inpt5 {
+    font-size: 16px;
+}
+
+.sbmt {
+    font-size: 14px;
+}
+
+.sec4_inr {
+    width: 100%;
+    text-align: center;
+    float: none;
+}
+
+.sec4 h2 {
+    font-size: 29px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    width: 100%;
+}
+
+.sec4 {background: none;padding-bottom: 30px;}
+
+.sec4 h4 {
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.get_btn2 {
+    float: none;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.sec4 h3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.sec5_a {
+    width: 33%;
+    border-right: none;
+}
+
+.sec5_inr {
+    margin-bottom: 20px;
+}
+
+.ftr ul li {
+    float: left;
+    width: auto;
+    text-align: left;
+    line-height: 25px;
+}
+
+.media_row_a {
+    width: 100%;
+    text-align: left;
+}
+
+.mdia {
+    float: left;
+    padding-left: 14px;
+    padding-top: 10px;
+}
+
+.mdia a i {
+    font-size: 20px;
+}
+.gfr {
+    width: 100%;
+}
+.rgt_aline {
+    float: none;
+    margin: 0;
+}
+
+.price_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.edst2 {
+    float: left;
+    width: 100%;
+}
+
+.edst2 h3 {
+    font-size: 30px;
+}
+
+.xs5 {
+    width: 86%;
+}
+
+section.sec9 {
+    margin-bottom: 0;
+}
+.edsi img {
+    width: 100%;
+}
+.feat_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+.feat_warp h1 {
+    font-size: 28pt;
+}
+
+.te_x6 p {
+    padding: 0;
+}
+
+.service_crou .item {
+    padding: 5%;
+    text-align: center;
+	    min-height: 300px;
+}
+
+.service_crou .item .fa {
+    text-align: center;
+    width: 100%;
+}
+
+.service_crou .item h2 {
+    width: 100%;
+    text-align: center;
+}
+#slideshow {
+    height: 471px;}
+}
+@media only screen and (min-width:769px) and (max-width:880px) {
+#slideshow {
+    height: 515px;}	
+	
+.service_crou .item {
+	    min-height: 330px;
+}	
+	
+}
+
+
+@media only screen and (min-width:881px) and (max-width:1000px) {
+#slideshow {
+    height: 560px;}	
+	.service_crou .item {
+	    min-height: 330px;
+}
+}
+
+
+@media only screen and (min-width:769px) and (max-width:1024px) {
+	.container {
+    width: 100%;
+}
+	.top_lft {
+    width: 38%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.top_rgt {
+    float: right;
+    width: 54%;
+}
+
+.top ul {
+    float: left;
+    text-align: left;
+    margin-top: 8px;
+}
+
+.top ul li a {
+    font-size: 16px;
+}
+
+.login_btn {
+    float: right;
+    font-size: 15px;
+    padding: 4px 23px;
+}
+
+.bnr_content.animate.fadeInLeftBig.two {
+    width: 70%;
+    text-align: center;
+    margin: 102px auto;
+    float: none;
+}
+
+.bnr h1 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 11%;
+}
+
+.bnr p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.get_btn {
+    float: none;
+    margin: 0 auto;
+}
+
+.bnr {background-position: left center;}
+
+.title_width {
+    width: 100%;
+    font-size: 41px;
+}
+
+section.sec1 {
+}
+
+a.cal {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.frm_box {
+    padding: 10% 2%;
+}
+
+.frm_box label {
+    float: left;
+    width: 100%;
+}
+
+.kij1 {
+    width: 100%;
+}
+
+.inpt1 {
+    width: 100%;
+    margin-left: 0;
+}
+
+.rmv_crcl i {
+    float: left;
+    width: 100%;
+    background: #06577d;
+    color: #ffffff;
+    padding: 4%;
+}
+
+.edst h3 {
+    font-size: 41px;
+}
+
+.hpne {
+    width: 100%;
+}
+
+.hpne h2 {
+    font-size: 24px;
+}
+
+.sec2_frm {
+    width: 100%;
+    margin-top: 23px;
+}
+
+.sec2_frm_a {
+    width: 70%;
+}
+
+.sec2_frm_b {
+    width: 30%;
+}
+
+.inpt5 {
+    font-size: 16px;
+}
+
+.sbmt {
+    font-size: 14px;
+}
+
+.sec4_inr {
+    width: 100%;
+    text-align: center;
+    float: none;
+}
+
+.sec4 h2 {
+    font-size: 29px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    width: 100%;
+}
+
+.sec4 {background: none;padding-bottom: 30px;}
+
+.sec4 h4 {
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.get_btn2 {
+    float: none;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.sec4 h3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.sec5_a {
+    width: 33%;
+    border-right: none;
+}
+
+.sec5_inr {
+    margin-bottom: 20px;
+}
+
+.ftr ul li {
+    float: left;
+    width: auto;
+    text-align: left;
+    line-height: 25px;
+}
+
+.media_row_a {
+    width: 100%;
+    text-align: left;
+}
+
+.mdia {
+    float: left;
+    padding-left: 14px;
+    padding-top: 10px;
+}
+
+.mdia a i {
+    font-size: 20px;
+}
+.gfr {
+    width: 100%;
+}
+.rgt_aline {
+    float: none;
+    margin: 0;
+}
+
+.price_warp_content {
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.edst2 {
+    float: left;
+    /* width: 100%; */
+    padding-top: 0;
+}
+
+.edst2 h3 {
+    font-size: 30px;
+}
+
+.xs5 {
+    width: 86%;
+}
+
+section.sec9 {
+    margin-bottom: 0;
+}
+.edsi img {
+    width: 100%;
+}
+.service_crou .item {
+	    min-height: 360px;
+	    text-align: center;
+}
+
+.service_crou .item .fa{float: none;}
+
+
+}
+
+
+
+
+
+
